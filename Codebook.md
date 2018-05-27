@@ -9,13 +9,27 @@ Variables
 =========
 
 The first row of the data set contains the variable names.
-\#\#Identifiers \*Subject Identifies the subject. Integer, range 1-30.
 
-\*Activity identifier, string, with 6 possible values: + WALKING-
-Subject was walking + WALKING\_UPSTAIRS- Subject was walking upstairs +
-WALKING\_DOWNSTAIRS- Subject was walking downstairs + SITTING- Subject
-was sitting + STANDING- Subject was standing + LAYING- Subject was
-laying
+Identifiers
+-----------
+
+-   Subject
+
+Identifies the subject. Integer, range 1-30.
+
+-   Activity identifier, string, with 6 possible values:
+
+-   WALKING- Subject was walking
+
+-   WALKING\_UPSTAIRS- Subject was walking upstairs
+
+-   WALKING\_DOWNSTAIRS- Subject was walking downstairs
+
+-   SITTING- Subject was sitting
+
+-   STANDING- Subject was standing
+
+-   LAYING- Subject was laying
 
 Features
 --------

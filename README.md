@@ -3,16 +3,16 @@ Coursera- Getting and Cleaning Data Course Project
 
 This repository contains the following files:
 
-\*README.Rmd , the current file, which gives an overview of the data and
-how it was created and transformed.
+-   README.Rmd , the current file, which gives an overview of the data
+    and how it was created and transformed.
 
-\*tidy\_data.txt , the tidy data set.
+-   tidy\_data.txt , the tidy data set.
 
-\*Codebook.Rmd , a codebook describing the content of the data set,
-including the variables and transformations used.
+-   Codebook.Rmd , a codebook describing the content of the data set,
+    including the variables and transformations used.
 
-\*run\_analysis.R , the R script used to create the tidy data set. See
-below section, "Creating the Tidy Data", for script details.
+-   run\_analysis.R , the R script used to create the tidy data set. See
+    below section, "Creating the Tidy Data", for script details.
 
 Background and Overview
 -----------------------
