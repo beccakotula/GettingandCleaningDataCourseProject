@@ -91,4 +91,4 @@ newData <- allData %>%
   summarize_all(mean)
 
 ## Create a new dataset with the tidy data. 
-write.table(newData, "tidy_data.txt", quote=FALSE)
+write.table(newData, "tidy_data.txt", quote=FALSE, row.names = FALSE)
