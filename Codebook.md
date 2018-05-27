@@ -13,11 +13,9 @@ The first row of the data set contains the variable names.
 Identifiers
 -----------
 
--   Subject
+Subject - Identifies the subject. Integer, range 1-30.
 
-Identifies the subject. Integer, range 1-30.
-
--   Activity identifier, string, with 6 possible values:
+Activity identifier, string, with 6 possible values:
 
 -   WALKING- Subject was walking
 
